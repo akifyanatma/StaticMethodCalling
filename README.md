@@ -1,0 +1,2 @@
+# StaticMethodCalling
+#Qt  #Static #VS
